@@ -2,6 +2,10 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+img {
+   width: 500px;
+   height:300px;
+}    
 nav ul, footer ul {
     font-family: "Lucida Console", Monaco, monospace;
     padding: 0px;
