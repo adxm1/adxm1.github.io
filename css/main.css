@@ -39,10 +39,12 @@ h2 {
     font-family: "Lucida Console", Monaco, monospace;
 }
 div { 
-                width:60%; 
-                height:300px; 
-} 
-    
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1px solid;
+}
+
 p {
     font-size: 1.4em;
     line-height: 1.3em;
