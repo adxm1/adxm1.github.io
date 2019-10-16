@@ -1,7 +1,9 @@
 body {
-    background: linear-gradient(90deg, papayawhip, red, blue);
-    color: #fafafa;
-}
+    background: linear-gradient(90deg, grey, blue);margin: 60px auto;
+    width: 70%;
+    background-color: #f0f0f5;
+    color: #47476b;
+}  
 img {
   padding: 2px;
   width:100%; 
