@@ -5,7 +5,15 @@ body {
     color: #fafafa;
     font-family: 'Barrio', "Lucida Console", Monaco, monospace;
     font-size: 1.4em;
-}  
+}
+
+h1 {
+    font-size: 1.7em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
 
 img {
   padding: 2px;
@@ -14,9 +22,9 @@ img {
 }
 
 footer ul {
-    padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size: 1.4em;
 }
 
 footer ul li {
@@ -34,20 +42,9 @@ a:hover {
      color: #4E1D12;
 }
 
-h1 {
-    font-size: 1.7em;
-}
-
-h2 {
-    font-size: 1.5em;
-}
-
 div { 
   width: 100%;
   background-repeat: no-repeat;
   background-size: contain;
 }
 
-footer {
-    font-size: 1.4em;
-}
