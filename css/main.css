@@ -6,36 +6,42 @@ body {
     font-family: 'Barrio', "Lucida Console", Monaco, monospace;
     font-size: 1.4em;
 }  
+
 img {
   padding: 2px;
   width:100%; 
   height:100%; 
 }
+
 footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: #ff0000;
 }
+
 footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
 }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
-     color:#F00;
+     color: #4E1D12;
 }
+
 h1 {
     font-size: 1.7em;
 }
-}
+
 h2 {
     font-size: 1.5em;
 }
+
 div { 
   width: 100%;
   background-repeat: no-repeat;
@@ -46,6 +52,7 @@ p {
     font-size: 1.4em;
     line-height: 1.3em;
 }
+
 footer {
     font-size: .9em;
 }
