@@ -11,10 +11,12 @@ body {
 h1 {
     color: #ff5733; 
     font-size: 1.7em;
+    font-weight: bold;
 }
 
 h2 {
     font-size: 1.5em;
+    font-weight: bold;
 }
 
 img {
@@ -25,7 +27,6 @@ img {
 
 footer ul {
     list-style: none;
-    font-weight: bold;
     font-size: 1.4em;
 }
 
