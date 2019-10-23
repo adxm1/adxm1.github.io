@@ -3,14 +3,14 @@ body {
     margin: 60px;
     width: 80%;
     background-color: #f0f0f5;
-    color: #fafafa;
     font-family: 'Barrio', "Lucida Console", Monaco, monospace;
+    color: #fafafa;
     font-size: 1.4em;
 }
 
 h1 {
-    font-size: 1.7em;
     color: #ff5733; 
+    font-size: 1.7em;
 }
 
 h2 {
