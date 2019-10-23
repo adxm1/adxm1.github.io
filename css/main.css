@@ -10,6 +10,7 @@ body {
 
 h1 {
     font-size: 1.7em;
+    color: #ff5733; 
 }
 
 h2 {
@@ -30,7 +31,6 @@ footer ul {
 
 footer ul li {
     display: inline;
-    margin-right: 10px;
 }
 
 a {
