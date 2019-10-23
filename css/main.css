@@ -1,5 +1,6 @@
 body {
     background: linear-gradient(90deg, grey, blue);
+    margin: 60px;
     width: 80%;
     background-color: #f0f0f5;
     color: #fafafa;
